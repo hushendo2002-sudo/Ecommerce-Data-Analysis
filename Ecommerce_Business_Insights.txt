@@ -1,0 +1,15 @@
+E-COMMERCE BUSINESS INSIGHTS REPORT
+=============================================
+Total Orders: 100
+Delivered Orders: 70
+Delivered Revenue: Rs. 557775.00
+Average Delivered Order Value: Rs. 7968.21
+Cancellation Rate: 10.00%
+Repeat Customers: 25
+One-time Customers: 0
+
+BUSINESS RECOMMENDATIONS
+1. Continue monitoring order cancellations.
+2. Maintain customer loyalty through personalized offers.
+3. Monitor inventory and promotion strategy for Product 26.
+4. Evaluate growth opportunities in the Accessories category.
